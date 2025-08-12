@@ -1,18 +1,28 @@
-# Computer-Graphics-and-Visualization
+# Computer Graphics and Visualization
 
-This project is a 3D graphics application developed in C++ using OpenGL, simulating a 3D environment inspired by a 2D image provided by a client. The program generates low-polygon models with textures and lighting, utilizing best practices for 3D graphics development. Key features include:
+This project is a **3D graphics application** developed in C++ using **OpenGL**, inspired by a 2D image provided by a client. It simulates a 3D environment featuring low-polygon models enhanced with textures and lighting, following best practices in 3D graphics development.
 
--  3D Objects: Four objects composed of primitive shapes, with applied textures and organized geometry.
--  Lighting: Two light sources with Phong shading components for polished visualizations.
--  Camera Controls: Navigation using WASD and QE keys for movement, with mouse input for orientation adjustments.
--  Display Options: Toggle between perspective and orthographic views with a keyboard key.
+## Key Features
 
-This project showcases my understanding of computational graphics, interactive applications, and best coding practices.
+- **3D Objects:** Four objects composed of primitive shapes, with organized geometry and applied textures.
+- **Lighting:** Two light sources implementing Phong shading for realistic visual effects.
+- **Camera Controls:** Navigate the environment using **WASD** and **QE** keys, with mouse input for camera orientation.
+- **Display Options:** Toggle between **perspective** and **orthographic** views via keyboard input.
 
-**Questions to Answer**
-1. How do you approach designing software?
-   - When designing any type of software I like to lay out all the information I have gathered that needs to be implemented.  Whether that is creating different diagrams of representation or making detailed lists, doing this allows for me to attack each task in a step-by-step manner that I find most beneficial to me.
-2. How do I approach developing programs?
-   - Very similarly, I like to get all the information in front of me.  I like to create a basic outline in my IDE to make sure I do not forget anything and can jump around easy if need be.  That may consist of commenting and functions that need to be done, any different source files are created but may be empty.  Making sure I have an outline makes it so I can really focus on the programming and not worry about forgetting an aspect.
-3. How can computer science help me in reaching my goals?
-   - I have found that computer science has taught me the importance of my techniques.  When dealing with large projects that can not be done in one sitting, you need to be able to create an enviorment for yourself that makes it easy to jump back in at another time.  Making thought out planning tools and using different strategies like I stated in my last two questions answers is needed in order to be a successful developer.
+This project highlights my skills in computational graphics, interactive application design, and adherence to clean coding standards.
+
+---
+
+## Reflection Questions
+
+**1. How do you approach designing software?**  
+I begin by gathering all necessary information and then create diagrams or detailed lists to break down the project into manageable steps. This structured planning helps me tackle each part methodically.
+
+**2. How do you approach developing programs?**  
+I like to start with a clear outline in my IDE, including comments and function placeholders. Creating empty source files as needed allows me to focus on coding efficiently without forgetting important components.
+
+**3. How can computer science help me reach my goals?**  
+Computer science has taught me the value of solid techniques and planning, especially for large projects that require multiple sessions. Thoughtful planning and using strategies like outlining and modular development are essential to becoming a successful developer.
+
+---
+
